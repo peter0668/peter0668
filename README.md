@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @peter0668
 - 👀 I’m interested in ... Planning technology 
 - 🌱 I’m currently learning ... Unreal Engine4 
-- 💞️ I’m looking to collaborate on ... haha !
-- 📫 How to reach me ... IPOP#5781
+- 💞️ I’m looking to collaborate on ... haha !            
+- 📫 How to reach me ... hm...
 
 <!---
 peter0668/peter0668 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
