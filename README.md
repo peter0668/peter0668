@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @peter0668
 - 👀 I’m interested in ... Planning technology 
-- 🌱 I’m currently learning ... Unreal Engine4 
+- 🌱 I’m currently learning ... Unreal Engine and Unity
 - 💞️ I’m looking to collaborate on ... haha !            
 - 📫 How to reach me ... hm...
 
